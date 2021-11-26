@@ -10,6 +10,7 @@
         <module name="springMVC_jsp" />
         <module name="springMVC_demo1" />
         <module name="springMVC" />
+        <module name="springMVC_RESTful" />
       </profile>
     </annotationProcessing>
   </component>
