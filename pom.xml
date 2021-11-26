@@ -11,6 +11,7 @@
     <modules>
         <module>springMVC</module>
         <module>springMVC_demo1</module>
+        <module>springMVC_demo2</module>
     </modules>
 
     <properties>
