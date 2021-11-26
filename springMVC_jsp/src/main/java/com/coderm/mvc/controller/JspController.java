@@ -1,19 +1,19 @@
 package com.coderm.mvc.controller;
 
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class TestController {
+public class JspController {
 
     @RequestMapping("/")
-    public String index(){
+    public String index() {
         return "index";
     }
 
-    @RequestMapping("/test_view")
-    public String test_view(){
-        return "test_view";
+    @RequestMapping("/success")
+    public String success() {
+        return "success";
     }
+
 }
