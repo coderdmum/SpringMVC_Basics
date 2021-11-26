@@ -41,6 +41,7 @@
             <param-name>contextConfigLocation</param-name>
             <param-value>classpath:springMVC.xml</param-value>
         </init-param>
+<!--        服务启动时初始化-->
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
