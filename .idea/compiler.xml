@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springMVC_demo2" />
-        <module name="springMVC_jsp" />
         <module name="springMVC_demo1" />
+        <module name="springMVC_demo4" />
+        <module name="springMVC_demo3" />
+        <module name="springMVC_jsp" />
         <module name="springMVC" />
         <module name="springMVC_RESTful" />
-        <module name="springMVC_demo3" />
+        <module name="springMVC_Annotation" />
       </profile>
     </annotationProcessing>
   </component>

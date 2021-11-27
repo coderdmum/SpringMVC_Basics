@@ -15,6 +15,8 @@
         <module>springMVC_jsp</module>
         <module>springMVC_RESTful</module>
         <module>springMVC_demo3</module>
+        <module>springMVC_demo4</module>
+        <module>springMVC_Annotation</module>
     </modules>
 
     <properties>
