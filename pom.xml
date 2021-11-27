@@ -14,6 +14,7 @@
         <module>springMVC_demo2</module>
         <module>springMVC_jsp</module>
         <module>springMVC_RESTful</module>
+        <module>springMVC_demo3</module>
     </modules>
 
     <properties>

@@ -11,6 +11,7 @@
         <module name="springMVC_demo1" />
         <module name="springMVC" />
         <module name="springMVC_RESTful" />
+        <module name="springMVC_demo3" />
       </profile>
     </annotationProcessing>
   </component>
